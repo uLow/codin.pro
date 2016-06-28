@@ -1,2 +1,2 @@
 <?php
-header('Location: https://github.com/uLow?redirect_from=codin.pro&web=deployed');
+header('Location: https://github.com/uLow?redirect_from=codin.pro');
