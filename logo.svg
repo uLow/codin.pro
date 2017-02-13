@@ -1,0 +1,60 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="869 406 447 107">
+    <g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
+        <g class="logo__item__inner" transform="translate(987.9140625 482.92169947820787) scale(2.165331391114348 2.165331391114348) rotate(0 0 0)">
+            <text data-part-id="logo__item--business" dy="0" dominant-baseline="auto" alignment-baseline="auto" font-family="Montserrat" font-size="32px" fill="#000000" letter-spacing="0" font-weight="bold" font-style="normal" data-font-family="Montserrat" data-font-weight="bold" data-font-style="normal" data-ttf-url="/builder_assets/fontsttf/font-montserrat-bold-normal.ttf" data-font-filename="montserrat-bold-normal">CodinPro</text>
+        </g>
+    </g>
+    <g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0" class="logo__item">
+        <g class="logo__item__inner" transform="translate(861.6941937507771 395) scale(1.259353389022437 1.259353389022437) rotate(0 0 0)">
+            <g>
+                <mask maskUnits="userSpaceOnUse" x="37.526" y="85.209" width="50.533" height="6.205" id="SVGID_1_">
+                    <g filter="url(#Adobe_OpacityMaskFilter)">
+                        <defs>
+                            <filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="37.526" y="85.209" width="50.533" height="6.205">
+                                <feFlood style="flood-color:white;flood-opacity:1" result="back"></feFlood>
+                                <feBlend in="SourceGraphic" in2="back" mode="normal"></feBlend>
+                            </filter>
+                        </defs>
+                        <mask maskUnits="userSpaceOnUse" x="37.526" y="85.209" width="50.533" height="6.205" id="SVGID_1_">
+                            <g filter="url(#Adobe_OpacityMaskFilter_1_)">
+                            </g>
+                        </mask>
+                        <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="35.0879" y1="88.3115" x2="83.8722" y2="88.3115">
+                            <stop offset="0" style="stop-color:#FFFFFF"></stop>
+                            <stop offset="0.0524" style="stop-color:#E8E8E8"></stop>
+                            <stop offset="0.2031" style="stop-color:#ABABAB"></stop>
+                            <stop offset="0.3529" style="stop-color:#777777"></stop>
+                            <stop offset="0.4983" style="stop-color:#4C4C4C"></stop>
+                            <stop offset="0.6383" style="stop-color:#2B2B2B"></stop>
+                            <stop offset="0.7716" style="stop-color:#131313"></stop>
+                            <stop offset="0.8952" style="stop-color:#050505"></stop>
+                            <stop offset="1" style="stop-color:#000000"></stop>
+                        </linearGradient>
+                        <path mask="url(#SVGID_1_)" fill="url(#SVGID_2_)" d="M88.059,88.308c0-1.712-11.313-3.099-25.267-3.099     c-13.95,0-25.266,1.387-25.266,3.099c0,1.716,11.316,3.106,25.266,3.106C76.746,91.414,88.059,90.023,88.059,88.308z" data-part-id="logo__item--logo_0__0"></path>
+                    </g>
+                </mask>
+                <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="35.0879" y1="88.3115" x2="83.8722" y2="88.3115">
+                    <stop offset="0" style="stop-color:#231F20"></stop>
+                    <stop offset="1" style="stop-color:#231F20"></stop>
+                </linearGradient>
+                <path fill="url(#SVGID_3_)" d="M88.059,88.308c0-1.712-11.313-3.099-25.267-3.099c-13.95,0-25.266,1.387-25.266,3.099   c0,1.716,11.316,3.106,25.266,3.106C76.746,91.414,88.059,90.023,88.059,88.308z" data-part-id="logo__item--logo_0__1"></path>
+                <g>
+                    <radialGradient id="SVGID_4_" cx="15.3667" cy="-11.4175" r="110.8694" gradientUnits="userSpaceOnUse">
+                        <stop offset="0" style="stop-color:#FDBC11"></stop>
+                        <stop offset="0.3576" style="stop-color:#EC1C24"></stop>
+                        <stop offset="0.6606" style="stop-color:#BE1E2D"></stop>
+                        <stop offset="1" style="stop-color:#620000"></stop>
+                    </radialGradient>
+                    <path fill="url(#SVGID_4_)" d="M81.355,33.41L65.362,17.459c-15.187-15.139-33.454,1.566-33.454,1.566l-14.937,14.98    C4.102,46.91,8.745,58.947,12.349,64.672c1.403,2.227,2.648,3.5,2.648,3.5l16.8,16.754c0.566,0.565,1.142,1.086,1.721,1.554    c13.809,11.127,30.819-4.635,30.819-4.635l15.95-15.989C96.435,49.661,81.355,33.41,81.355,33.41z M71.04,28.171    c3.287,3.283,4.252,8.887,1.943,18.49c-2.004,8.316-7.754,19.925-14.817,30.85c0,0-0.248,0.378-0.764,0.759    c-1.224,0.914-3.901,1.859-8.029-2.261L22.446,49.154c0,0-4.558-4.991-1.802-7.827c0.189-0.198,0.417-0.386,0.678-0.558    c0,0,14.59-11.153,32.222-15.71C57.849,23.948,65.77,22.922,71.04,28.171z" data-part-id="logo__item--logo_0__2"></path>
+                    <radialGradient id="SVGID_5_" cx="55.4805" cy="88.3105" r="58.28" gradientUnits="userSpaceOnUse">
+                        <stop offset="0" style="stop-color:#FDBC11"></stop>
+                        <stop offset="0.3576" style="stop-color:#EC1C24"></stop>
+                        <stop offset="0.6606" style="stop-color:#BE1E2D"></stop>
+                        <stop offset="1" style="stop-color:#620000"></stop>
+                    </radialGradient>
+                    <path fill="url(#SVGID_5_)" d="M22.446,49.154l12.903,12.87l1.463,1.458l12.561,12.526c4.127,4.12,6.805,3.175,8.029,2.261    c-1.322,1.889-9.878,13.127-23.885,8.21c-0.579-0.468-1.155-0.988-1.721-1.554l-8.209-8.179l-1.464-1.464l-7.127-7.111    c0,0-1.245-1.273-2.648-3.5c-4.467-13.6,6.347-21.967,8.295-23.345C17.889,44.164,22.446,49.154,22.446,49.154z" data-part-id="logo__item--logo_0__3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
