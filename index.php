@@ -1,3 +1,3 @@
 <?php
-header('Location: https://github.com/CodinPro?redirect_from=codin.pro&'.$_SERVER['QUERY_STRING']);
+header('Location: https://github.com/CodinPro?redirect_from=codin.pro');
 exit;
